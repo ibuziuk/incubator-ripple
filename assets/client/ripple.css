@@ -1241,3 +1241,11 @@ fieldset {
     -webkit-transition: background 0.5s;
     background-color: #66ccff;
 }
+
+/*********** CORDOVASIM  START ************/
+
+#upload-file-button {
+    display:none;
+}
+
+/*********** CORDOVASIM  END ************/
